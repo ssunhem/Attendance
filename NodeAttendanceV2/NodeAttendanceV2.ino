@@ -233,6 +233,7 @@ void loop()
         Serial.println(thID);
         if (online)
         {
+          url = "..."   // reset url after sending information
           url.concat(strID);
           Serial.println("url = ");       Serial.println(url.c_str());
           httpClient.begin(url.c_str());
