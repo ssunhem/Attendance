@@ -4,7 +4,11 @@ Student Attendance Collector for Receive Information from Student ID Card and Th
 *** This Project is authorized by Student Employment Program, Faculty of Engineering, Chulalongkorn University ***
 
 ------------------------------------------------------------
-  Development Information
+  **How does it work?**
+    Firstly, Device tries initializing SD Card then connect to WLAN for receiving and sending the students' information. Next step, users put their Thai ID Card into THID V2.0 Module Slot then close the Student ID Card to RFID tag. All information will be saved into SD Card and they will be sent to the Database of Faculty (In this case, I applied GET METHOD for convenience. It needs to be developed in the future for more security)
+
+------------------------------------------------------------
+  **Development Information**
   Engineering Attendance Kit was created by applying RFID communication,
   In this version, Reading Thai National ID Card and communication with a server are available
 
