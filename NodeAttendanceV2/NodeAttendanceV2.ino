@@ -75,7 +75,7 @@ WiFiManager wifiManager;
 HTTPClient httpClient;
 File dataFile;
 
-String url = "https://student.eng.chula.ac.th/app/checkrfid.php?rfid=";     // Depend on Server data storage
+String url = "...";     // Depend on Server data storage
 
 String dirName = "/Attendance";
 String fileName = "/ID";
