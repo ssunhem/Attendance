@@ -1,6 +1,8 @@
 # Attendance
 Student Attendance Collector for Receive Information from Student ID Card and Thai ID Card and send to the Faculty Server and SD Card
 
+*** This Project is authorized by Student Employment Program, Faculty of Engineering, Chulalongkorn University ***
+
 ------------------------------------------------------------
   Development Information
   Engineering Attendance Kit was created by applying RFID communication,
