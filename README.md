@@ -48,3 +48,7 @@ Student Attendance Collector for Receive Information from Student ID Card and Th
     VCC   --> RAW
     
 ------------------------------------------------------------
+About Additional Libraries
+   1. SD Card & RFID Reader: https://www.arduino.cc/reference/en/libraries/sd/
+      https://www.arduino.cc/reference/en/libraries/mfrc522/
+   2. LCD: https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/
